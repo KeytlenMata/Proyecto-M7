@@ -24,7 +24,7 @@ Este proyecto fue desarrollado de forma **individual** por **Keytlen Mata** como
   - Separadores visuales (`=` y `-`) para mejor legibilidad  
   - Bienvenida y despedida personalizadas  
 
-## Autor
+## Autora
 
 - **Keytlen Mata**
 
